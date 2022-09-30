@@ -1,0 +1,10 @@
+.hide {
+  display: none;
+}
+.sliderImg {
+  height: 75vh;
+  object-fit: cover;
+}
+.contain-menu {
+  margin: 5rem auto;
+}
